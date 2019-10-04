@@ -29,8 +29,7 @@ github_username:
 # Build settings
 remote_theme: mmistakes/so-simple-theme
 plugins:
-  - jekyll-feed
-  
+- jekyll-feed
   
 # Exclude from processing.
 # The following items will not be processed, by default.
